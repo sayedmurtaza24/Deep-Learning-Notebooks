@@ -7,11 +7,11 @@ as Jupyter notebook format _.ipynb_.
 
 ## Projects
 Here is a list of them:
-Project Name            | Problem type  | Goal                                   |  Accuracy achieved
------------------------ | ------------  | -------------------------------------- | -------------------
-USA Used cars           | Regression    | Predict price                          | mae: 3845.8398
-Garbage Classification  | CNN           | Classify 6 different types of garbage  | accuracy: 81.91%
-Shoe brand classifier   | CNN (transfer)| Classify 6 different types of garbage  | accuracy: 90%
+Project Name            | Problem type  | Goal                                          |  Accuracy achieved
+----------------------- | ------------  | --------------------------------------------- | -------------------
+USA Used cars           | Regression    | Predict price                                 | mae: 3845.8398
+Garbage Classification  | CNN           | Classify 6 different types of garbage         | accuracy: 81.91%
+Shoe brand classifier   | CNN (transfer)| Classify shoe brands: adidas, nike, converse  | accuracy: 90%
 
 More will be added as I'm still learning...
 
