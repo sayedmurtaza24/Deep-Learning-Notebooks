@@ -7,10 +7,11 @@ as Jupyter notebook format _.ipynb_.
 
 ## Projects
 Here is a list of them:
-Project Name            | Problem type | Goal                                   |  Accuracy achieved
------------------------ | ------------ | -------------------------------------- | -------------------
-USA Used cars           | Regression   | Predict price                          | mae: 3845.8398
-Garbage Classification  | CNN          | Classify 6 different types of garbage  | accuracy: 81.91%
+Project Name            | Problem type  | Goal                                   |  Accuracy achieved
+----------------------- | ------------  | -------------------------------------- | -------------------
+USA Used cars           | Regression    | Predict price                          | mae: 3845.8398
+Garbage Classification  | CNN           | Classify 6 different types of garbage  | accuracy: 81.91%
+Shoe brand classifier   | CNN (transfer)| Classify 6 different types of garbage  | accuracy: 90%
 
 More will be added as I'm still learning...
 
@@ -20,6 +21,7 @@ Project Name            | Goal
 ----------------------- | -------------------------------------- 
 USA Used cars           | [Link to Kaggle.com](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 Garbage Classification  | [Link to Kaggle.com](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
+Shoe Brand Classifier   | [Link to Kaggle.com](https://www.kaggle.com/datasets/die9origephit/nike-adidas-and-converse-imaged)
 
 ## License
 All notebooks inside this repo are made only for research and learning purposes and are free to use!
